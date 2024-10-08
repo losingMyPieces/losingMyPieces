@@ -5,9 +5,9 @@
 **当前页面访问次数统计** <a title="Hits" target="_blank" href="https://github.com/losingMyPieces/hits"><img src="https://hits.b3log.org/losingMyPieces/hits.svg"></a>
 
 - 🌱 I’m currently learning：
-  ![ocaml](https://ocaml.org/)
-  ![linux](https://wizardforcel.gitbooks.io/vbird-linux-basic-4e/content/)
-  **Japanese**
+- [ocaml](https://ocaml.org/)
+- [linux](https://wizardforcel.gitbooks.io/vbird-linux-basic-4e/content/)
+- **Japanese**
   
 <!--
 **losingMyPieces/losingMyPieces** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
