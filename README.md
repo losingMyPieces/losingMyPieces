@@ -1,10 +1,9 @@
 ## Hi there 👋
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=expoli)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=losingMyPieces)
 
 **当前页面访问次数统计** <a title="Hits" target="_blank" href="https://github.com/losingMyPieces/hits"><img src="https://hits.b3log.org/losingMyPieces/hits.svg"></a>
 
-<a title="Hits" target="_blank" href="https://github.com/losingMyPieces/hits"><img src="https://hits.b3log.org/losingMyPieces/hits.svg"></a>
 
 <!--
 **losingMyPieces/losingMyPieces** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
