@@ -8,7 +8,7 @@
   [ocaml](https://ocaml.org/) \
   [linux](https://wizardforcel.gitbooks.io/vbird-linux-basic-4e/content/) \
   **Japanese**
-  
+- [personal page](xiaoming.homes) \
 <!--
 **losingMyPieces/losingMyPieces** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
